@@ -1,3 +1,3 @@
-module efi.loader {
-	
+module efi.main {
+	requires java.desktop;
 }
